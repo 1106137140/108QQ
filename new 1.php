@@ -1,9 +1,10 @@
 <html>
 <head></head>
 <body>
-
-lalala
-123
+<?php
+echo "lalala";
+echo "123";
+?>
 </body>
 
 </html>
